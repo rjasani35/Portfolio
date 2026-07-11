@@ -46,17 +46,17 @@ The layout prioritizes high-accessibility signal routing to break out critical c
 *(Below are the detailed layout, schematic, and 3D views of the custom MCU board design.)*
 
 ### Schematic Overview
-![Schematic](images/Schematic.jpg)
+![Schematic](Images/Schematic.jpg)
 
 ### Board Layout and Routing
-![Layout and Routing](images/Layout%20and%20Routing.jpg)
+![Layout and Routing](Images/Layout%20and%20Routing.jpg)
 
 ### 3D CAD Renders
 **Top View**
-![3D Top View](images/3D%20Top%20View.jpg)
+![3D Top View](Images/3D%20Top%20View.jpg)
 
 **Side View**
-![3D Side View](images/3D%20Side%20View.jpg)
+![3D Side View](Images/3D%20Side%20View.jpg)
 
 **Bottom View**
-![3D Bottom View](images/3D%20Bottom%20View.jpg)
+![3D Bottom View](Images/3D%20Bottom%20View.jpg)
